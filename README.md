@@ -6,3 +6,5 @@
 2. 앱을 실행한 후 **하단에서 '설정'을 클릭**하면 **설정 화면**으로 넘어가고, *가운데에 있는 슬라이더를 이용*해서 **흔들기 민감도를 조절**할 수 있다.
 
 # 실행 화면
+
+![ezgif com-video-to-gif (20)](https://github.com/taeyoonL/random_dice/assets/132141316/c84167bb-a6ab-4b34-81ba-69d30c05f05f)
